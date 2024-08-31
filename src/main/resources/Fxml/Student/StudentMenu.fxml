@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Text?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="750.0" prefWidth="180.0" styleClass="main_menu_container" stylesheets="@../../Styles/ClientMenu.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.agh.javaassignment.Controllers.Student.StudentMenuController">
+    <AnchorPane prefHeight="730.0" prefWidth="160.0" styleClass="left_container">
+        <VBox prefHeight="80.0" prefWidth="160.0" styleClass="title_container" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <FontAwesomeIconView glyphName="UNIVERSITY" size="30" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="AGH" />
+        </VBox>
+        <VBox prefHeight="400.0" prefWidth="160.0" styleClass="menu_container" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="100.0">
+            <Button fx:id="report_btn" mnemonicParsing="false" text="Report">
+            <graphic>
+               <FontAwesomeIconView glyphName="PLUS" size="20" />
+            </graphic>
+            </Button>
+            <Button fx:id="presentation_btn" mnemonicParsing="false" text="Presentation">
+                <graphic>
+                    <FontAwesomeIconView glyphName="TABLE" size="20" />
+                </graphic>
+            </Button>
+         <Button fx:id="result_btn" mnemonicParsing="false" text="Result">
+            <graphic>
+               <FontAwesomeIconView glyphName="SEARCH" size="20" />
+            </graphic>
+         </Button>
+            <Line endX="22.0" startX="-100.0" />
+            <Button fx:id="logout_btn" mnemonicParsing="false" styleClass="alt_menu_btn" text="Logout">
+                <graphic>
+                    <FontAwesomeIconView glyphName="EXTERNAL_LINK" size="20" />
+                </graphic>
+            </Button>
+        </VBox>
+    </AnchorPane>
+</VBox>

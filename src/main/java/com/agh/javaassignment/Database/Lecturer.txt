@@ -1,0 +1,153 @@
+[ {
+  "department" : "Computer Science",
+  "id" : 1,
+  "isPM" : true,
+  "lecturerId" : "L001",
+  "name" : "Dr. John Smith",
+  "password" : "pass001",
+  "role" : "Professor"
+}, {
+  "department" : "Mathematics",
+  "id" : 2,
+  "isPM" : false,
+  "lecturerId" : "L002",
+  "name" : "Dr. Jane Doe",
+  "password" : "pass002",
+  "role" : "Associate Professor"
+}, {
+  "lecturerId" : "L003",
+  "password" : "pass0034",
+  "role" : "",
+  "isPM" : false,
+  "name" : "Dr. Alan Turing",
+  "id" : 3,
+  "department" : "Computer Science"
+}, {
+  "lecturerId" : "L004",
+  "password" : "pass004",
+  "role" : "Project Manager",
+  "isPM" : true,
+  "name" : "Dr. Grace Hopper",
+  "id" : 4,
+  "department" : "Mathematics"
+}, {
+  "department" : "Mathematics",
+  "id" : 5,
+  "isPM" : false,
+  "lecturerId" : "L005",
+  "name" : "Dr. Ada Lovelace",
+  "password" : "pass005",
+  "role" : "Lecturer"
+}, {
+  "lecturerId" : "L007",
+  "password" : "pass007",
+  "role" : "",
+  "isPM" : false,
+  "name" : "Dr. Tim Berners-Lee",
+  "id" : 7,
+  "department" : "Arts"
+}, {
+  "department" : "Computer Science",
+  "id" : 8,
+  "isPM" : true,
+  "lecturerId" : "L008",
+  "name" : "Dr. Donald Knuth",
+  "password" : "pass008",
+  "role" : "Professor"
+}, {
+  "department" : "Physics",
+  "id" : 9,
+  "isPM" : true,
+  "lecturerId" : "L009",
+  "name" : "Dr. Richard Feynman",
+  "password" : "pass009",
+  "role" : "Professor"
+}, {
+  "department" : "Chemistry",
+  "id" : 10,
+  "isPM" : true,
+  "lecturerId" : "L010",
+  "name" : "Dr. Marie Curie",
+  "password" : "pass010",
+  "role" : "Associate Professor"
+}, {
+  "id" : 10,
+  "role" : "Project Manager",
+  "isPM" : true,
+  "name" : "Prof. Hani Suraya",
+  "lecturerId" : "L008",
+  "password" : "12345",
+  "department" : "Cyber Security"
+}, {
+  "id" : 10,
+  "department" : "Arts",
+  "password" : "test",
+  "lecturerId" : "L003",
+  "name" : "Test",
+  "isPM" : false,
+  "role" : "Not Assigned"
+}, {
+  "department" : "Mathematics",
+  "password" : "122345",
+  "lecturerId" : "L0985",
+  "name" : "Izzul",
+  "isPM" : true,
+  "role" : "Project Manager",
+  "id" : 10
+}, {
+  "password" : "12345678",
+  "lecturerId" : "L00101",
+  "name" : "Dr. Mikael Eckhart",
+  "isPM" : true,
+  "role" : "Project Manager",
+  "id" : 11,
+  "department" : "Mathematics"
+}, {
+  "password" : "12345678",
+  "lecturerId" : "L0032",
+  "name" : "Dr. Mikael Nisnimiev",
+  "isPM" : true,
+  "role" : "Project Manager",
+  "id" : 12,
+  "department" : "Mathematics"
+}, {
+  "role" : "Not Assigned",
+  "id" : 14,
+  "department" : "Arts",
+  "password" : "",
+  "lecturerId" : "",
+  "name" : "",
+  "isPM" : false
+}, {
+  "role" : "Project Manager",
+  "id" : 15,
+  "department" : "Mathematics",
+  "password" : "pass123",
+  "lecturerId" : "L009",
+  "name" : "Prof Muhaya",
+  "isPM" : true
+}, {
+  "role" : "Not Assigned",
+  "id" : 16,
+  "department" : "Mathematics",
+  "password" : "Huza123",
+  "lecturerId" : "L007",
+  "name" : "Dr Huzaifah",
+  "isPM" : false
+}, {
+  "role" : "Not Assigned",
+  "id" : 17,
+  "department" : "Mathematics",
+  "password" : "Huza123",
+  "lecturerId" : "L0015",
+  "name" : "Dr Huzaifah",
+  "isPM" : false
+}, {
+  "department" : "Mathematics",
+  "id" : 18,
+  "role" : "Project Manager",
+  "isPM" : true,
+  "name" : "Test",
+  "lecturerId" : "testis",
+  "password" : "test"
+} ]

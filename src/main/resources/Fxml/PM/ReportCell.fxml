@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="50.0" prefWidth="800.0" styleClass="client_cell_container" stylesheets="@../../Styles/ClientCell.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+    <FontAwesomeIconView glyphName="USER" layoutX="22.0" layoutY="29.0" size="20" styleClass="acc_display_lbl" text="" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="14.0" />
+    <HBox prefHeight="40.0" prefWidth="737.0" AnchorPane.leftAnchor="60.0" AnchorPane.topAnchor="5.0">
+        <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="acc_display_lbl" text="Assessment ID:" />
+        <Label fx:id="assessment_id_lbl" styleClass="acc_display_lbl" text="Izzul Hazim" />
+        <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="acc_display_lbl" text="Student Name:" />
+        <Label fx:id="student_id_lbl" styleClass="acc_display_lbl" text="Fall 2022" />
+        <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="acc_display_lbl" text="Submission Date:" />
+        <Label fx:id="submitDate_lbl" styleClass="acc_display_lbl" text="lec001" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="acc_display_lbl" text="Status:" />
+      <Label fx:id="status_lbl" styleClass="acc_display_lbl" text="Graded" />
+    </HBox>
+</AnchorPane>

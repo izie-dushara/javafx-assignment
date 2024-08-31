@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.agh.javaassignment.Controllers.LoginController">
+    <VBox prefHeight="400.0" prefWidth="200.0" styleClass="login_logo_container" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <FontAwesomeIconView glyphName="UNIVERSITY" size="30" text="" />
+        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="AGH Projectoid" />
+    </VBox>
+    <VBox layoutX="260.0" layoutY="50.0" prefHeight="350.0" prefWidth="350.0" styleClass="login_form_container" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+        <Label id="choice-prompt-text" text="Choose your account type:" />
+        <ChoiceBox fx:id="acc_selector" prefWidth="90.0" styleClass="account_selector" />
+        <Label id="choice-prompt-text" fx:id="name_lbl" text="Admin Name:" />
+        <TextField fx:id="name_fld" styleClass="input_field" />
+        <Label id="choice-prompt-text" text="Password:" />
+        <PasswordField fx:id="password_fld" styleClass="input_field" />
+        <Button fx:id="login_btn" mnemonicParsing="false" text="Login" />
+        <Label fx:id="error_lbl" styleClass="error_lbl" />
+    </VBox>
+   <stylesheets>
+      <URL value="@../Styles/login.css" />
+   </stylesheets>
+</AnchorPane>

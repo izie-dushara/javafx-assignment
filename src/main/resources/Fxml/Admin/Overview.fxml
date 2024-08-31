@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="750.0" prefWidth="850.0" styleClass="clients_container" stylesheets="@../../Styles/Clients.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.agh.javaassignment.Controllers.Admin.OverviewController">
+    <Text layoutX="164.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lecturer" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="14.0" />
+    <ListView fx:id="students_listview" layoutX="25.0" layoutY="388.0" prefHeight="326.0" prefWidth="800.0" AnchorPane.leftAnchor="25.0" AnchorPane.topAnchor="388.0" />
+   <Text layoutX="14.0" layoutY="382.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Student" AnchorPane.leftAnchor="14.0" />
+   <ListView fx:id="lecturers_listview" layoutX="25.0" layoutY="40.0" prefHeight="326.0" prefWidth="800.0" />
+</AnchorPane>

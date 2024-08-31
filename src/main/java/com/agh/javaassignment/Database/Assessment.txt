@@ -1,0 +1,120 @@
+[ {
+  "assessmentId" : "A001",
+  "id" : 1,
+  "secondMarkerName" : "Mozambique",
+  "studentId" : "TP001",
+  "supervisorId" : "L001",
+  "projectManagerId" : "L004",
+  "type" : "Midterm"
+}, {
+  "assessmentId" : "A002",
+  "id" : 2,
+  "secondMarkerId" : "L004",
+  "studentId" : "TP002",
+  "supervisorId" : "L003",
+  "type" : "Final"
+}, {
+  "assessmentId" : "A003",
+  "id" : 3,
+  "secondMarkerId" : "L006",
+  "studentId" : "TP003",
+  "supervisorId" : "L005",
+  "type" : "Midterm"
+}, {
+  "assessmentId" : "A004",
+  "id" : 4,
+  "secondMarkerId" : "L008",
+  "studentId" : "TP004",
+  "supervisorId" : "L007",
+  "type" : "Final"
+}, {
+  "assessmentId" : "A005",
+  "id" : 5,
+  "secondMarkerId" : "L010",
+  "studentId" : "TP005",
+  "supervisorId" : "L009",
+  "type" : "Midterm"
+}, {
+  "assessmentId" : "A006",
+  "id" : 6,
+  "secondMarkerId" : "L012",
+  "studentId" : "TP006",
+  "supervisorId" : "L011",
+  "type" : "Final"
+}, {
+  "assessmentId" : "A007",
+  "id" : 7,
+  "secondMarkerId" : "L014",
+  "studentId" : "TP007",
+  "supervisorId" : "L013",
+  "type" : "Midterm"
+}, {
+  "assessmentId" : "A008",
+  "id" : 8,
+  "secondMarkerId" : "L016",
+  "studentId" : "TP008",
+  "supervisorId" : "L015",
+  "type" : "Final"
+}, {
+  "assessmentId" : "A009",
+  "id" : 9,
+  "secondMarkerId" : "L018",
+  "studentId" : "TP009",
+  "supervisorId" : "L017",
+  "type" : "Midterm"
+}, {
+  "assessmentId" : "A010",
+  "id" : 10,
+  "secondMarkerId" : "L020",
+  "studentId" : "TP010",
+  "supervisorId" : "L019",
+  "type" : "Final"
+}, {
+  "studentId" : "TP002",
+  "supervisorId" : "L005",
+  "projectManagerId" : "L006",
+  "secondMarkerId" : "L004",
+  "type" : "CP1",
+  "assessmentId" : "Bob SmithL006",
+  "id" : 11
+}, {
+  "supervisorId" : "L003",
+  "studentId" : "Quentin Coldwater",
+  "id" : 12,
+  "assessmentId" : "Quentin ColdwaterL006",
+  "type" : "Investigation Reports",
+  "secondMarkerId" : "L002",
+  "projectManagerId" : "L006"
+}, {
+  "supervisorId" : "L007",
+  "projectManagerId" : "L008",
+  "secondMarkerId" : "L005",
+  "type" : "Investigation Reports",
+  "assessmentId" : "TP016L008",
+  "id" : 13,
+  "studentId" : "TP016"
+}, {
+  "secondMarkerId" : "L003",
+  "projectManagerId" : "L010",
+  "supervisorId" : "L002",
+  "studentId" : "TP002",
+  "id" : 14,
+  "assessmentId" : "TP002L010",
+  "type" : "RMCP"
+}, {
+  "assessmentId" : "TP002L010",
+  "id" : 15,
+  "studentId" : "TP002",
+  "supervisorId" : "L002",
+  "projectManagerId" : "L010",
+  "secondMarkerId" : "L003",
+  "type" : "Investigation Reports"
+}, {
+  "assessmentId" : "TP002L010",
+  "id" : 16,
+  "studentId" : "TP002",
+  "supervisorId" : "L002",
+  "projectManagerId" : "L010",
+  "secondMarkerId" : "L003",
+  "type" : "Investigation Reports"
+} ]

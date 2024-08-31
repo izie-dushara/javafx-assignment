@@ -1,0 +1,199 @@
+[ {
+  "id" : 1,
+  "intake" : "March 2022",
+  "name" : "Alice Johnson",
+  "password" : "pass001",
+  "studentId" : "TP001"
+}, {
+  "id" : 2,
+  "intake" : "September 2021",
+  "name" : "Bob Smith",
+  "password" : "pass002",
+  "studentId" : "TP002"
+}, {
+  "id" : 3,
+  "intake" : "March 2022",
+  "name" : "Charlie Brown",
+  "password" : "pass003",
+  "studentId" : "TP003"
+}, {
+  "id" : 4,
+  "intake" : "September 2021",
+  "name" : "Diana Prince",
+  "password" : "pass004",
+  "studentId" : "TP004"
+}, {
+  "id" : 5,
+  "intake" : "March 2022",
+  "name" : "Ethan Hunt",
+  "password" : "pass005",
+  "studentId" : "TP005"
+}, {
+  "id" : 6,
+  "intake" : "September 2021",
+  "name" : "Fiona Gallagher",
+  "password" : "pass006",
+  "studentId" : "TP006"
+}, {
+  "id" : 7,
+  "intake" : "March 2022",
+  "name" : "George Costanza",
+  "password" : "pass007",
+  "studentId" : "TP007"
+}, {
+  "id" : 8,
+  "intake" : "September 2021",
+  "name" : "Hannah Montana",
+  "password" : "pass008",
+  "studentId" : "TP008"
+}, {
+  "id" : 9,
+  "intake" : "March 2022",
+  "name" : "Ian Malcolm",
+  "password" : "pass009",
+  "studentId" : "TP009"
+}, {
+  "id" : 10,
+  "intake" : "September 2021",
+  "name" : "Jane Eyre",
+  "password" : "pass010",
+  "studentId" : "TP010"
+}, {
+  "id" : 11,
+  "intake" : "March 2022",
+  "name" : "Kyle Reese",
+  "password" : "pass011",
+  "studentId" : "TP011"
+}, {
+  "id" : 12,
+  "intake" : "September 2021",
+  "name" : "Lara Croft",
+  "password" : "pass012",
+  "studentId" : "TP012"
+}, {
+  "id" : 13,
+  "intake" : "March 2022",
+  "name" : "Michael Scott",
+  "password" : "pass013",
+  "studentId" : "TP013"
+}, {
+  "id" : 14,
+  "intake" : "September 2021",
+  "name" : "Nancy Drew",
+  "password" : "pass014",
+  "studentId" : "TP014"
+}, {
+  "id" : 15,
+  "intake" : "March 2022",
+  "name" : "Oliver Twist",
+  "password" : "pass015",
+  "studentId" : "TP015"
+}, {
+  "id" : 16,
+  "intake" : "September 2021",
+  "name" : "Pam Beesly",
+  "password" : "pass016",
+  "studentId" : "TP016"
+}, {
+  "id" : 17,
+  "intake" : "March 2022",
+  "name" : "Quentin Coldwater",
+  "password" : "pass017",
+  "studentId" : "TP017"
+}, {
+  "id" : 18,
+  "intake" : "September 2021",
+  "name" : "Rachel Green",
+  "password" : "pass018",
+  "studentId" : "TP018"
+}, {
+  "id" : 19,
+  "intake" : "March 2022",
+  "name" : "Sam Winchester",
+  "password" : "pass019",
+  "studentId" : "TP019"
+}, {
+  "id" : 20,
+  "intake" : "September 2021",
+  "name" : "Tina Belcher",
+  "password" : "pass020",
+  "studentId" : "TP020"
+}, {
+  "id" : 21,
+  "intake" : "March 2022",
+  "name" : "Ursula Buffay",
+  "password" : "pass021",
+  "studentId" : "TP021"
+}, {
+  "id" : 22,
+  "intake" : "September 2021",
+  "name" : "Victor St",
+  "password" : "pass022",
+  "studentId" : "TP022"
+}, {
+  "id" : 23,
+  "intake" : "March 2022",
+  "name" : "Walter White",
+  "password" : "pass023",
+  "studentId" : "TP023"
+}, {
+  "id" : 24,
+  "intake" : "September 2021",
+  "name" : "Xander Harris",
+  "password" : "pass024",
+  "studentId" : "TP024"
+}, {
+  "id" : 26,
+  "intake" : "September 2021",
+  "name" : "Zack Morris",
+  "password" : "pass026",
+  "studentId" : "TP026"
+}, {
+  "id" : 27,
+  "intake" : "March 2022",
+  "name" : "Alex Dunphy",
+  "password" : "pass027",
+  "studentId" : "TP027"
+}, {
+  "id" : 28,
+  "intake" : "September 2021",
+  "name" : "Betty Cooper",
+  "password" : "pass028",
+  "studentId" : "TP028"
+}, {
+  "id" : 29,
+  "intake" : "March 2022",
+  "name" : "Cameron Tucker",
+  "password" : "pass029",
+  "studentId" : "TP029"
+}, {
+  "id" : 31,
+  "intake" : "December 2024",
+  "name" : "Test",
+  "password" : "test",
+  "studentId" : "tes1"
+}, {
+  "id" : 32,
+  "intake" : "December 2024",
+  "name" : "Testis",
+  "password" : "test1",
+  "studentId" : "12345"
+}, {
+  "id" : 34,
+  "intake" : "April 2023",
+  "name" : "Izzul",
+  "password" : "12356",
+  "studentId" : "TP09843"
+}, {
+  "id" : 35,
+  "intake" : "May 2023",
+  "name" : "Izzul Hazim bin Zahba",
+  "password" : "1234567",
+  "studentId" : "12345"
+}, {
+  "intake" : "December 2023",
+  "id" : 36,
+  "password" : "1234",
+  "name" : "haressh",
+  "studentId" : "TP066"
+} ]
